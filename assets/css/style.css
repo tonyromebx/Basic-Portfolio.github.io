@@ -124,8 +124,9 @@ hr {
 
 .left-side-port {
 	float:left;
-	width:234px;
+	width:286px;
 	position: relative;
+	height:220px;
 }
 
 .left-side-contact {
@@ -165,12 +166,12 @@ hr {
 
 
 .text-block {
-	position: relative;
-    bottom: 79px;
+    position: relative;
+    bottom: 102px;
     background: rgba(74, 170, 165, 0.8);
     color: white;
     opacity: 1;
-    width: 193px;
+    width: 200px;
 }
 
 .text-block p {
